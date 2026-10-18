@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OUI FM",
+    "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+    "logo": "OuiFM.png"
+  },
+  {
+    "name": "RTL2",
+    "url": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    "logo": "RTL2.png"
+  },
+  {
+    "name": "Ici Normandie",
+    "url": "https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3",
+    "logo": "ICI.png"
+  },
+  {
+    "name": "Rire & Chansons",
+    "url": "https://streaming.nrjaudio.fm/oua8afw2dqao",
+    "logo": "Rire&Chansons.webp"
+  }
+]
