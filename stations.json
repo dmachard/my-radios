@@ -2,21 +2,31 @@
   {
     "name": "OUI FM",
     "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
-    "logo": "OuiFM.png"
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/ouifm_logo.png"
   },
   {
     "name": "RTL2",
     "url": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
-    "logo": "RTL2.png"
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/rtl2_logo.png"
+  },
+  {
+    "name": "RTL",
+    "url": "https://streaming-ice.audiomeans.fr/rtl/feed-rtl-mp3-128",
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/rtl_logo.png"
   },
   {
     "name": "Ici Normandie",
     "url": "https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3",
-    "logo": "ICI.png"
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/ici_logo.png"
   },
   {
     "name": "Rire & Chansons",
     "url": "https://streaming.nrjaudio.fm/oua8afw2dqao",
-    "logo": "Rire&Chansons.webp"
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/rirechansons_logo.png"
+  },
+  {
+    "name": "RFM",
+    "url": "https://rfm.lmn.fm/rfm.mp3",
+    "logo": "https://raw.githubusercontent.com/dmachard/my-radios/main/icons/rfm_logo.png"
   }
 ]

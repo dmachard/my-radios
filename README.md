@@ -7,6 +7,10 @@ Personal backup of radio stations and logos for the [LiveRadio GNOME Shell exten
 - `stations.json` — The list of stations (stream URLs, display names, and logo links).
 - `icons/` — Radio station logos (PNG / SVG).
 
+## Getting icons from Google Play
+
+Open the app's icon on Google Play and copy its image URL. To choose the image resolution, change the size at the end of the URL: for example, replace `=s512` with `=s128`, `=s256`, or another size in pixels. For example, this icon URL requests a 512 × 512 image: [Google Play icon](https://play-lh.googleusercontent.com/zlDIMlYvey0oe2hJwOyMuMGO2hSdUDSR6Hy2PnpoM_aM_NV2AgEBAAFM7-mZZdDiFhhggNhLwn5e8G6D7IN8=s512). Download the image and save it in `icons/`.
+
 ## Restore / Import into GNOME
 
 ### Option 1: Via command line (1-liner)
